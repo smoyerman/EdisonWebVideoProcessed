@@ -3,7 +3,7 @@ Use Intel Edison to serve live streaming video and display it normal and filtere
 
 Run this simply with 
 
-# python LiveStreamProcessed.py
+$ python LiveStreamProcessed.py
 
 It has several dependencies: openCV and Flask
 
@@ -19,8 +19,8 @@ Dependencies will be dragged in automatically.
 
 You can install Flask by first installing pip
 
-# wget https://bootstrap.pypa.io/get-pip.py
-# python get-pip.py
-# pip install flask
+$ wget https://bootstrap.pypa.io/get-pip.py
+$ python get-pip.py
+$ pip install flask
 
 
